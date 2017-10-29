@@ -1,0 +1,56 @@
+<!--TAGs para mecanismos de buscas -->
+
+<meta name="description" content="Digite aqui um texto com a descrição da página (255 caracteres)" />
+<meta name="keywords" content="Digite aqui até 12 palávras chaves que serão usadas na pesquisa da sua página" />
+<meta name="author" content="Nome do Autor">
+<meta name="robots" content="index,follow" / >
+<meta name="revisit-after" content="20 days" />
+
+<!--------------------------------------------------------------------------------------------------------------->
+<!-- Ferramenta de palavras-chave -->
+
+https://adwords.google.com.br/o/Targeting/Explorer?__c=9450696441&__u=9198903681&__o=cues&ideaRequestType=KEYWORD_IDEAS
+
+
+<!--------------------------------------------------------------------------------------------------------------->
+
+<!-- Para cadastrar seu site no Google -->
+
+http://www.google.com.br/intl/pt-BR/add_url.html
+
+
+<!-- Para cadastrar seu site no yahoo -->
+
+http://siteexplorer.search.yahoo.com/br/free/submit
+
+
+<!-- Para cadastrar seu site no BING (msn) -->
+
+http://www.bing.com/webmaster/SubmitSitePage.aspx
+
+
+
+
+<!--------------------------------------------------------------------------------------------------------------->
+
+
+Obs.: Para verificar se seu site está aparecendo nos motores de busca acima, digite site:seu endereço.
+
+
+<!--------------------------------------------------------------------------------------------------------------->
+
+
+<!-- Para cadastrar seu site em vários robôs de busca  -->
+
+http://www.datahosting.com.br/divulgador/ (Grátis)
+
+http://www.cadastrando.com.br (Pago)
+
+
+<!--------------------------------------------------------------------------------------------------------------->
+
+<!-- Checar erros no HTML  -->
+
+http://validator.w3.org/
+
+<!--------------------------------------------------------------------------------------------------------------->
