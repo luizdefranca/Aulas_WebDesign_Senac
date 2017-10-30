@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+body{
+    background-color: whitesmoke;
+    color: #253220;
+    Font-family: 'Russo One', sans-serif;
+    font-weight: light;
+    font-size: 12pt;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+
+h1, h2{
+font-family: 'Roboto Slab', serif;
+color: #8877FF;
+}
+
+h1{
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    font-size: 2rem;
+    color: darkorchid;
+}
+
+h2 + ol{
+    
+    list-style: url("../imagens/icon-start.png");
+}
+
+
+ul{
+    list-style: lower-alpha;
+}
+
+table{
+    border: midnightblue double 5px;
+    width: 80%;
+    margin:0 auto;
+    
+}
+
+td{
+    border: black thin solid;
+    text-align: center;
+}
+
+.light_line{
+    background-color: lightslategrey;
+    color: ghostwhite;
+}
+
+
+

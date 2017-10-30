@@ -45,11 +45,11 @@
                 font-family: sans-serif;
             }
 
-            .block{
-                outline-color: #424242;
-                outline-style: solid;
-                padding: 10px;
+            .text-center{
+                text-align: center;
             }
+
+
             textarea{
                 resize:none;
                 outline: none;
@@ -68,15 +68,20 @@
                 font-weight: bolder;
             }
 
-            .img-center{
-
-                align-items: center;
+            #img-center{
+                display:block;
+                margin-left:auto;
+                margin-right:auto;
             }
 
             img{
-                width: 24%;
+                width: 20%;
             }
 
+            #destacado{
+                border: solid thin yellow;
+                background: yellow;
+            }
 
         </style>
 
@@ -92,8 +97,8 @@
                     Seu navegador não suporta o elemento <code>video</code>.
             </video>
         </textarea>
-            <p>Esse exemplo reproduz uma amostra de vídeo, com controles de reprodução, a partir do site <span class="text-strong">Theora</span>.</p>
-            <p>Aqui há um exemplo de áudio incorporado em um documento HTML</p>
+           <div id="destacado"> <p class="text-center">Esse exemplo reproduz uma amostra de vídeo, com controles de reprodução, a partir do site <span class="text-strong">Theora</span>.</p>
+            <p class="text-center">Aqui há um exemplo de áudio incorporado em um documento HTML</p></div>
         <textarea cols="100" rows="5">
             <audio src="/test/audio.ogg">
                 <p>Seu nevegador não suporta o elemento audio.</p>
@@ -103,7 +108,8 @@
         <audio controls autoplay >
             <source src="https://www.computerhope.com/jargon/m/example.mp3">
         </audio>
-       <div class="img-center">
+        <br>
+       <div id="img-center">
             <img src="http://infinitysom.com.br/media/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_2_2_813.jpg" alt="Right Subwoof">
             <img src="https://www.tutoriart.com.br/wp-content/uploads/2013/07/Como-Criar-um-Player-de-Áudio-só-com-HTML5.png" alt="Html 5 Símbolo">
             <img src="http://infinitysom.com.br/media/catalog/product/cache/1/image/300x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_2_2_813.jpg" alt="Left SubWoof">
